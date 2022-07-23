@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyassin&hide=stars&count_private=true&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyassin&count_private=true&hide=csharp&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyassin&count_private=true&hide=c%23&layout=compact)
 <!--
 **mhyassin/mhyassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
